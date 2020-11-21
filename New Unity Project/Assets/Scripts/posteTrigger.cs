@@ -7,6 +7,6 @@ public class posteTrigger : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        result.text = "Anotó";
+        result.text = "1";
     }
 }
